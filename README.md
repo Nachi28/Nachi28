@@ -2,13 +2,13 @@
 </h1>
 <h3 align="center">A Developer</h3>
 
-- 🔭 I’m currently working on **WSN using Leach**
+- 🔭 I’m currently working on **ASP.NET**
 
-- 🌱 I’m currently learning **Web Development and Data Structures**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **nachiketsuryawanshi2002@gmail.com**
 
-- 💬 Ask me about **Image processing & NLP**
+- 💬 Ask me about **Image processing,ML, Web development**
 
 - 👨‍💻 Know about my projects & experiences
 [Resume](https://drive.google.com/file/d/1LiLzZYoPEbKTI3-uh0QjF473ij5CS0W0/view?usp=sharing)
