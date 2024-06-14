@@ -49,10 +49,8 @@
 
 
 <h3 align="left">📊 Github Stats</h3>
-<!-- <p>&nbsp;<img align="center"
+<!--- <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=Nachi28&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Nachi28" /></p> -->
+        alt="Nachi28" /></p>--->
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachi28&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Nachi28" /></p>
+![nachi28's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachi28&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
