@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ASP.NET**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** & **Web3**
 
 - 📫 How to reach me **nachiketsuryawanshi2002@gmail.com**
 
