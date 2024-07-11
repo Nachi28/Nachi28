@@ -2,7 +2,7 @@
 </h1>
 <h3 align="center">A Developer</h3>
 
-- 🔭 I’m currently working on **ASP.NET**
+- 🔭 I’m currently working on **UEFI**
 
 - 🌱 I’m currently learning **Next.js** & **Web3**
 
