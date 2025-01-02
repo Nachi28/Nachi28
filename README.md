@@ -2,13 +2,13 @@
 </h1>
 <h3 align="center">A Developer</h3>
 
-- 🔭 I’m currently working on **UEFI**
+- 🔭 I’m currently working on **Avalonia** and C++ **WinSockets** and **Services** 
 
 - 🌱 I’m currently learning **Next.js** & **Web3**
 
 - 📫 How to reach me **nachiketsuryawanshi2002@gmail.com**
 
-- 💬 Ask me about **Image processing,ML, Web development**
+- 💬 Ask me about **Image processing,ML, Web development, UEFI**
 
 - 👨‍💻 Know about my projects & experiences
 [Resume](https://drive.google.com/file/d/1LiLzZYoPEbKTI3-uh0QjF473ij5CS0W0/view?usp=sharing)
