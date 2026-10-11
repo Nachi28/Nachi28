@@ -2,18 +2,20 @@
 </h1>
 <h3 align="center">A Developer</h3>
 
-- 🔭 I’m currently working on **Avalonia** and C++ **WinSockets** and **Services** 
+- 🔭 I’m currently working on C++ backend **services** (multi-threaded, low-latency) and building **MiniDB**, a SQL database from scratch
 
-- 🌱 I’m currently learning **Next.js** & **Web3**
+- 🌱 I’m currently learning **Cryptography**
 
 - 📫 How to reach me **nachiketsuryawanshi2002@gmail.com**
 
-- 💬 Ask me about **Image processing,ML, Web development, UEFI**
+- 💬 Ask me about **Image processing,ML, Web development, UEFI, databases**
 
 - 👨‍💻 Know about my projects & experiences
-[Resume](https://drive.google.com/file/d/1LiLzZYoPEbKTI3-uh0QjF473ij5CS0W0/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1Npgf8s2GL10TQooy7JxQzOImggdQVckg/view?usp=sharing)
 
 - [Portfolio Website](https://portfolio-dqet.onrender.com/)
+
+- [MiniDB](https://github.com/Nachi28/MiniDb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,18 +41,17 @@
 
 <h3 align="left">Other Tools:</h3>
 <p align="left">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a>
-
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
+src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+alt="photoshop" width="40" height="40" /> </a>
 
 <h3 align="left">📊 Github Stats</h3>
 <!--- <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Nachi28&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Nachi28" /></p>--->
+src="https://github-readme-stats.vercel.app/api?username=Nachi28&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"
+alt="Nachi28" /></p>--->
 
 ![nachi28's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachi28&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
